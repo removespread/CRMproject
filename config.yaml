@@ -1,0 +1,7 @@
+enviroment: "dev"
+list:
+  host: "localhost"
+  port: "9920"
+  dsn: "host=localhost user=gorm password=gorm dbname=gorm port=9920 sslmode=disable TimeZone=Asia/Shanghai"
+
+  
